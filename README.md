@@ -55,18 +55,19 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<br/>
+<p align="left">
+<a href="https://github.com/wildanwigenta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnucholdun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnucholdun&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br/><br/>
+<a href="https://github.com/wildanwigenta/github-readme-activity-graph"><img alt="Wildan Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
+
+<br/>
 
 <hr/>
 
 <br/>
 
-<br/>
