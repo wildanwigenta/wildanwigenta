@@ -63,7 +63,7 @@
 </a>
 </p>
 
-<a href="https://github.com/wildanwigenta/github-readme-activity-graph"><img alt="Wildan Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnucholdun&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
+<a href="https://github.com/wildanwigenta/github-readme-activity-graph"><img alt="Wildan Choldun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wildan&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
 <br/>
 
