@@ -42,26 +42,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<p align="left">
-<a href="https://github.com/wildanwigenta">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnucholdun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnucholdun&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <a href="https://github.com/wildanwigenta/github-readme-activity-graph"><img alt="Wildan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wildan&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
