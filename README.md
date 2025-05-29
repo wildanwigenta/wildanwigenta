@@ -10,9 +10,9 @@
 
 <h3 align="center">🚀 A passionate Web Developer who loves building impactful digital products</h3>
 
----
 
- 🙋‍♂️ About Me
+
+ ## 🙋‍♂️ About Me
 
 <div align="center">
 
