@@ -10,21 +10,17 @@
 
 <h3 align="center">🚀 A passionate Web Developer who loves building impactful digital products</h3>
 
-
-
- ## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 <div align="center">
 
-🎓 I'm a student at **Universitas Teknologi Digital Indonesia**  
-💻 I love crafting websites using **Laravel, Node.js, and React**  
-🌱 Currently learning and improving my skills in **JavaScript, PHP, MySQL, and Firebase**  
-💬 Ask me anything about tech — I’d be happy to help!  
+🎓 Student at **Universitas Teknologi Digital Indonesia**  
+💻 Love working with **Laravel, Node.js, and React**  
+🌱 Currently learning **JavaScript, PHP, MySQL, Firebase**  
+💬 Ask me about anything tech-related!  
 ⚡ Fun fact: *The Night's Watch cloaks in Game of Thrones were made from IKEA rugs.* 😄
 
 </div>
-
----
 
 ## 📫 Connect with Me
 
@@ -40,8 +36,6 @@
   </a>
 </div>
 
----
-
 ## ⚒️ Tech Stack & Tools
 
 <div align="center">
@@ -51,28 +45,20 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
 
----
-
 ## 🌱 Currently Exploring
 
-- 🔧 **Backend Development** with Laravel & Node.js
-- 🎨 **Frontend Mastery** using React and Next.js
-- 📂 **Real-World Projects** to sharpen my problem-solving and coding skills
-
----
+- 🔧 Backend Development with Laravel & Node.js  
+- 🎨 Frontend Mastery using React and Next.js  
+- 📂 Real-world projects to sharpen my skills  
 
 ## 📈 GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wildanwigenta&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wildanwigenta&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" />
 </div>
 
----
-
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
