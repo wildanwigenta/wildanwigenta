@@ -58,7 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" />
 </div>
 
-> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+> _Code ShaGen --27
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
