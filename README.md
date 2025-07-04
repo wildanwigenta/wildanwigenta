@@ -58,7 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" />
 </div>
 
-> _Code ShaGen --27
+> -- Code ShaGen --27
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
