@@ -10,8 +10,6 @@
 
 <h3 align="center">🚀 A Passionate Web Developer Crafting Meaningful Digital Experiences</h3>
 
----
-
 ## 🙋‍♂️ About Me
 
 <div align="center">
@@ -23,8 +21,6 @@
 ⚡ Fun Fact: *The Night's Watch cloaks in Game of Thrones were made from IKEA rugs.* 😄  
 
 </div>
-
----
 
 ## 📫 Connect with Me
 
@@ -40,8 +36,6 @@
   </a>
 </div>
 
----
-
 ## ⚒️ Tech Stack & Tools
 
 <div align="center">
@@ -51,15 +45,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
 
----
+## 🌱 Currently Exploring
 
-## 🔍 Currently Exploring
-
-- 🛠 Building scalable backend systems with Laravel & Node.js  
-- 💡 Mastering frontend frameworks like React and Next.js  
-- 📚 Working on real-world web projects to improve collaboration and problem-solving  
-
----
+- 🛠 Backend Development with Laravel & Node.js  
+- 💡 Frontend Frameworks: React and Next.js  
+- 📚 Real-world Web Projects to Improve Collaboration  
 
 ## 📈 GitHub Stats
 
@@ -68,8 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanwigenta&layout=compact&theme=radical" />
 </div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
