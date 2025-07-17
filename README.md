@@ -55,7 +55,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wildanwigenta&show_icons=true&theme=radical&hide_title=true&count_private=true" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanwigenta&theme=radical" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanwigenta&layout=compact&theme=radical" />
 </div>
 
