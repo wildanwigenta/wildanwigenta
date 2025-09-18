@@ -52,13 +52,6 @@ visit my website https://wildanwigenta.vercel.app/
 - 💡 Frontend Frameworks: React and Next.js  
 - 📚 Real-world Web Projects to Improve Collaboration  
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wildanwigenta&show_icons=true&theme=radical&hide_title=true&count_private=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanwigenta&layout=compact&theme=radical" />
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
 </p>
