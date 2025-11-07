@@ -1,26 +1,12 @@
+## 👋 About Me  
+Hi, I'm **Wildan Wigenta**  
+🎓 Informatics Student at Universitas Teknologi Digital Indonesia  
+💻 Focused on **Laravel**, **Node.js**, and **React**  
+🌱 Currently learning **JavaScript**, **PHP**, **MySQL**, and **Firebase**  
+🌐 [wildanwigenta.vercel.app](https://wildanwigenta.vercel.app)
 
-## 🙋‍♂️ About Me
 
-<div align="center">
- Hello, I'm Wildan Wigenta
- Informatics Student at **Universitas Teknologi Digital Indonesia**  
- Focused on **Laravel**, **Node.js**, and **React**  
- Currently deepening skills in **JavaScript**, **PHP**, **MySQL**, and **Firebase**  
- Always open to collaboration and tech discussions  
-visit my website https://wildanwigenta.vercel.app/
-
-</div>
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="mailto:wildanwigenta52@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/wildan-wigenta-28a853274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-</div>
+## 📫 Connect  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wildanwigenta52@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wildan-wigenta-28a853274/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white)](https://wildanwigenta.vercel.app)
