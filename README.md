@@ -24,5 +24,3 @@ visit my website https://wildanwigenta.vercel.app/
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
 </div>
-c="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
-</p>
