@@ -2,7 +2,7 @@
 Hi, I'm **Wildan Wigenta**  
  Informatics Student at Universitas Teknologi Digital Indonesia  
  Focused on **Laravel**, **Node.js**, and **NextJS**  
- Currently learning **JavaScript**, **PHP**, **MySQL**, and **Firebase**  
+ Currently learning **JavaScript**, **PHP**, **MySQL**, and **PostgreSQL**  
  [wildanwigenta.vercel.app](https://wildanwigenta.vercel.app)
 
 
