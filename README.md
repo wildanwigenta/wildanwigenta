@@ -3,7 +3,7 @@ Hi, I'm **Wildan Wigenta**
  Informatics Student at Universitas Teknologi Digital Indonesia  
  Focused on **Laravel**, **Node.js**, and **NextJS**  
  Currently learning **JavaScript**, **PHP**, **MySQL**, and **PostgreSQL**  
- My Portofolio : [wildanwigenta.vercel.app](https://wildanwigenta.vercel.app)
+ My Portofolio : [wildanwigenta](https://wildanwigenta.vercel.app)
 
 
 ##  Connect  
