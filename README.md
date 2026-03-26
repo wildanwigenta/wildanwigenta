@@ -21,7 +21,7 @@ I specialize in **Laravel (Backend Development)** and have experience working on
 ## 🛠 Tech Stack
 
 **Backend:**
-Laravel, PHP, Node.js
+Laravel, PHP, Node.js (Express.js)
 
 **Frontend:**
 React.js, Next.js, Tailwind CSS, Bootstrap
