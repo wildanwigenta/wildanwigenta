@@ -36,7 +36,6 @@ Git, REST API, Figma, Canva, Adobe Photoshop
 ## 📌 Featured Work
 
 🌐 **Portfolio:** https://wildanwigenta.vercel.app
-💻 **GitHub:** https://github.com/wildanwigenta
 
 > Explore my projects, live demos, and real-world applications I’ve built.
 
