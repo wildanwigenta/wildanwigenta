@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wildan Wigenta
 
-💻 **Web Developer | Laravel Specialist**
-📍 Based in Indonesia | 🌍 Open to Remote Opportunities
+💻 **Web Developer**
+📍 Based in Indonesia 
 
 ---
 
