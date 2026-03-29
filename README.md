@@ -50,4 +50,4 @@ Git, REST API, Figma, Canva, Adobe Photoshop
 
 ---
 
-⭐ *Always learning, building, and improving — aiming to become a world-class developer.*
+⭐ *Always learning, building, and improving - aiming to become a world-class developer.*
