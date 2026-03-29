@@ -11,7 +11,7 @@ Strong in **Laravel (Backend), REST API**, and experienced in handling productio
 **Backend:** Laravel, PHP, Node.js  
 **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
 **Database:** MySQL, PostgreSQL  
-**Tools:** Git, Figma, Canva, Adobe Photoshop  
+**Tools:** Git, Figma, Canva, Adobe Photoshop, CorelDRAW  
 
 ---
 
