@@ -26,4 +26,4 @@ Strong in **Laravel (Backend), REST API**, and experienced in handling productio
 
 ---
 
-⭐ *Continuously learning and building impactful solutions.*
+ *Continuously learning and building impactful solutions.*
