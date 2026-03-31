@@ -20,7 +20,7 @@ Strong in **Laravel (Backend), REST API**, and experienced in handling productio
 
 ---
 
-## 📫 Contact  
+##  Contact  
 📧 wildanwigenta52@gmail.com  
 🔗 https://linkedin.com/in/wildan-wigenta-28a853274  
 
