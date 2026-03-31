@@ -7,7 +7,7 @@ Strong in **Laravel (Backend), REST API**, and experienced in handling productio
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Backend:** Laravel, PHP, Node.js  
 **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
 **Database:** MySQL, PostgreSQL  
