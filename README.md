@@ -1,6 +1,6 @@
 #  Hi, I'm Wildan Wigenta
 
-💻 **Web Developer** | 📍 Indonesia  
+💻 **Web Developer** | 📍 **Indonesia**  
 
 Web Developer with 3+ years of experience building scalable and user-friendly applications.  
 Strong in **Laravel (Backend), REST API**, and experienced in handling production systems.
